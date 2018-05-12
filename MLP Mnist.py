@@ -6,7 +6,7 @@
 # 匯入模組
 from keras.utils import np_utils
 import numpy as np
-np.random.seed(12)
+np.random.seed(10)
 
 # 獲取mnist資料
 from keras.datasets import mnist
